@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 410" width="1000" height="410" role="img" aria-label="Sarvesh Yadav: agriculture, Agrigence and developer work">
+<style>.n{animation:up .9s ease-out both}.fl{stroke-dasharray:8 8;animation:dash 1.4s linear infinite}.hub{animation:pulse 3s ease-in-out infinite;transform-origin:500px 70px}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1}}
+@keyframes dash{to{stroke-dashoffset:-32}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.04)}}</style>
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2e13"/><stop offset=".6" stop-color="#14532d"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#86efac"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2f1a"/><stop offset="1" stop-color="#0c1a2b"/></linearGradient>
+</defs>
+<path class="fl" d="M500 110 C500 150 175 140 175 190" fill="none" stroke="#86efac" stroke-width="3"/>
+<path class="fl" d="M500 110 L500 190" fill="none" stroke="#fde68a" stroke-width="3"/>
+<path class="fl" d="M500 110 C500 150 825 140 825 190" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+<g class="hub"><rect x="340" y="30" width="320" height="80" rx="40" fill="url(#g1)" stroke="url(#g2)" stroke-width="3"/>
+<text x="500" y="67" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">Sarvesh Yadav</text>
+<text x="500" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#a7f3d0">Agriculturist · Founder · Developer</text></g>
+<g class="n" style="animation-delay:0.2s">
+<rect x="30" y="190" width="290" height="190" rx="16" fill="url(#card)" stroke="#86efac" stroke-width="2"/>
+<rect x="30" y="190" width="290" height="46" rx="16" fill="#86efac" fill-opacity=".25"/>
+<text x="54" y="221" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#ffffff">Agriculture</text>
+<text x="54" y="262" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• M.Sc. Horticulture, B.Sc. Agri.</text><text x="54" y="288" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• Organic: NPOP, USDA, EU</text><text x="54" y="314" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• DPRs and crop planning</text><text x="54" y="340" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• Fivearth Farms consulting</text></g><g class="n" style="animation-delay:0.5s">
+<rect x="355" y="190" width="290" height="190" rx="16" fill="url(#card)" stroke="#fde68a" stroke-width="2"/>
+<rect x="355" y="190" width="290" height="46" rx="16" fill="#fde68a" fill-opacity=".25"/>
+<text x="379" y="221" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#ffffff">Agrigence</text>
+<text x="379" y="262" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• Open-access journal</text><text x="379" y="288" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• Exam prep for 4 exams</text><text x="379" y="314" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• Android app on Google Play</text><text x="379" y="340" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• agrigence.in</text></g><g class="n" style="animation-delay:0.8s">
+<rect x="680" y="190" width="290" height="190" rx="16" fill="url(#card)" stroke="#7dd3fc" stroke-width="2"/>
+<rect x="680" y="190" width="290" height="46" rx="16" fill="#7dd3fc" fill-opacity=".25"/>
+<text x="704" y="221" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="#ffffff">Developer</text>
+<text x="704" y="262" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• React, Node, Firebase</text><text x="704" y="288" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• TypeScript and Python</text><text x="704" y="314" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• Swift (Mac apps)</text><text x="704" y="340" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e5e7eb">• AI developer tools</text></g></svg>

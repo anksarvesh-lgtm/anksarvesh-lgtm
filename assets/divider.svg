@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 50" width="1000" height="50" role="img" aria-label="divider">
+<style>.s{animation:sw 3.5s ease-in-out infinite;transform-origin:0 0}.s2{animation-delay:-1s}.s3{animation-delay:-2s}
+.sh{animation:shim 4s linear infinite}
+@keyframes sw{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(6deg)}}
+@keyframes shim{from{stroke-dashoffset:0}to{stroke-dashoffset:-40}}</style>
+<line x1="40" y1="40" x2="440" y2="40" stroke="#2E7D32" stroke-width="2" stroke-dasharray="8 12" class="sh"/>
+<line x1="560" y1="40" x2="960" y2="40" stroke="#2E7D32" stroke-width="2" stroke-dasharray="8 12" class="sh"/>
+<g transform="translate(470 42)"><g class="s"><path d="M0 0 C-1 -10 1 -20 0 -30" fill="none" stroke="#e6c35c" stroke-width="2" stroke-linecap="round"/><g fill="#f2d675"><ellipse cx="-3" cy="-20" rx="2" ry="5" transform="rotate(-28 -3 -20)"/><ellipse cx="3" cy="-22" rx="2" ry="5" transform="rotate(28 3 -22)"/><ellipse cx="-3" cy="-28" rx="2" ry="5" transform="rotate(-28 -3 -28)"/><ellipse cx="3" cy="-30" rx="2" ry="5" transform="rotate(28 3 -30)"/><ellipse cx="0" cy="-37" rx="2" ry="5"/></g></g></g>
+<g transform="translate(500 42)"><g class="s s2" transform="scale(1.25)"><path d="M0 0 C-1 -10 1 -20 0 -30" fill="none" stroke="#e6c35c" stroke-width="2" stroke-linecap="round"/><g fill="#f2d675"><ellipse cx="-3" cy="-20" rx="2" ry="5" transform="rotate(-28 -3 -20)"/><ellipse cx="3" cy="-22" rx="2" ry="5" transform="rotate(28 3 -22)"/><ellipse cx="-3" cy="-28" rx="2" ry="5" transform="rotate(-28 -3 -28)"/><ellipse cx="3" cy="-30" rx="2" ry="5" transform="rotate(28 3 -30)"/><ellipse cx="0" cy="-37" rx="2" ry="5"/></g></g></g>
+<g transform="translate(530 42)"><g class="s s3"><path d="M0 0 C-1 -10 1 -20 0 -30" fill="none" stroke="#e6c35c" stroke-width="2" stroke-linecap="round"/><g fill="#f2d675"><ellipse cx="-3" cy="-20" rx="2" ry="5" transform="rotate(-28 -3 -20)"/><ellipse cx="3" cy="-22" rx="2" ry="5" transform="rotate(28 3 -22)"/><ellipse cx="-3" cy="-28" rx="2" ry="5" transform="rotate(-28 -3 -28)"/><ellipse cx="3" cy="-30" rx="2" ry="5" transform="rotate(28 3 -30)"/><ellipse cx="0" cy="-37" rx="2" ry="5"/></g></g></g>
+</svg>

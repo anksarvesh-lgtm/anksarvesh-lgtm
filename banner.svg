@@ -1,4 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Sarvesh Yadav - Agriculturist by profession, Developer by passion">
+  <style>
+    .sway{animation:sway 4s ease-in-out infinite;transform-origin:0 0}
+    .sway.b{animation-duration:5s;animation-delay:-1.2s}
+    .sway.c{animation-duration:3.6s;animation-delay:-2.4s}
+    .sun{animation:pulse 5s ease-in-out infinite}
+    .fl{animation:float 6s ease-in-out infinite}
+    .fl.b{animation-duration:7.5s;animation-delay:-2s}
+    .fl.c{animation-duration:5.5s;animation-delay:-3s}
+    .title{animation:rise 1.2s ease-out both}
+    .tag{animation:rise 1.2s ease-out .4s both}
+    .sub{animation:rise 1.2s ease-out .8s both}
+    @keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
+    @keyframes pulse{0%,100%{opacity:.75}50%{opacity:1}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+  </style>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b2e13"/>
@@ -25,38 +41,38 @@
 
   <!-- background -->
   <rect width="1200" height="320" fill="url(#bg)"/>
-  <circle cx="1010" cy="95" r="170" fill="url(#sun)"/>
+  <circle class="sun" cx="1010" cy="95" r="170" fill="url(#sun)"/>
 
   <!-- faint code symbols -->
   <g font-family="Menlo, Consolas, 'Courier New', monospace" font-weight="700" fill="#ffffff" opacity="0.10">
-    <text x="250" y="80" font-size="64">{ }</text>
-    <text x="880" y="75" font-size="56">&lt;/&gt;</text>
-    <text x="150" y="215" font-size="48">#</text>
-    <text x="1060" y="225" font-size="48">;</text>
+    <g class="fl"><text x="250" y="80" font-size="64">{ }</text></g>
+    <g class="fl b"><text x="880" y="75" font-size="56">&lt;/&gt;</text></g>
+    <g class="fl c"><text x="150" y="215" font-size="48">#</text></g>
+    <g class="fl"><text x="1060" y="225" font-size="48">;</text></g>
   </g>
 
   <!-- back hill -->
   <path d="M0 320 L0 262 C220 236 420 284 640 262 C860 240 1020 276 1200 250 L1200 320 Z" fill="#1f7a3a" opacity="0.9"/>
 
   <!-- wheat left -->
-  <use href="#wheat" transform="translate(70 300) rotate(-6) scale(1)"/>
-  <use href="#wheat" transform="translate(125 302) rotate(4) scale(0.8)"/>
-  <use href="#wheat" transform="translate(175 304) rotate(-3) scale(0.62)"/>
+  <g transform="translate(70 300) rotate(-6) scale(1)"><g class="sway "><use href="#wheat"/></g></g>
+  <g transform="translate(125 302) rotate(4) scale(0.8)"><g class="sway b"><use href="#wheat"/></g></g>
+  <g transform="translate(175 304) rotate(-3) scale(0.62)"><g class="sway c"><use href="#wheat"/></g></g>
 
   <!-- wheat right -->
-  <use href="#wheat" transform="translate(1025 304) rotate(3) scale(0.62)"/>
-  <use href="#wheat" transform="translate(1075 302) rotate(-4) scale(0.8)"/>
-  <use href="#wheat" transform="translate(1130 300) rotate(6) scale(1)"/>
+  <g transform="translate(1025 304) rotate(3) scale(0.62)"><g class="sway "><use href="#wheat"/></g></g>
+  <g transform="translate(1075 302) rotate(-4) scale(0.8)"><g class="sway b"><use href="#wheat"/></g></g>
+  <g transform="translate(1130 300) rotate(6) scale(1)"><g class="sway c"><use href="#wheat"/></g></g>
 
   <!-- front hill -->
   <path d="M0 320 L0 292 C240 270 460 308 700 288 C900 272 1060 300 1200 282 L1200 320 Z" fill="#0f3d1d"/>
 
   <!-- text -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="600" y="150" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle">Sarvesh Yadav</text>
-    <text x="580" y="198" font-size="26" font-weight="600" fill="#fde68a" text-anchor="end">Agriculturist by profession</text>
-    <circle cx="600" cy="190" r="4" fill="#e5e7eb"/>
-    <text x="620" y="198" font-size="26" font-weight="600" fill="#86efac" text-anchor="start">Developer by passion</text>
-    <text x="600" y="238" font-size="18" fill="#cbd5e1" text-anchor="middle">Building the tools I wish existed</text>
+    <text class="title" x="600" y="150" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle">Sarvesh Yadav</text>
+    <text class="tag" x="580" y="198" font-size="26" font-weight="600" fill="#fde68a" text-anchor="end">Agriculturist by profession</text>
+    <circle class="tag" cx="600" cy="190" r="4" fill="#e5e7eb"/>
+    <text class="tag" x="620" y="198" font-size="26" font-weight="600" fill="#86efac" text-anchor="start">Developer by passion</text>
+    <text class="sub" x="600" y="238" font-size="18" fill="#cbd5e1" text-anchor="middle">Building the tools I wish existed</text>
   </g>
 </svg>

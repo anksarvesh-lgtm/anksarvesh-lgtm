@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 410" width="1000" height="410" role="img" aria-label="Agrigence: exam prep app and open-access journal">
+<style>.tm{animation:blink 1.6s steps(2,end) infinite}.ans{animation:glow 3s ease-in-out infinite}.bk{animation:flt 4s ease-in-out infinite}.lf{animation:flt 3s ease-in-out infinite}
+@keyframes blink{50%{opacity:.55}}@keyframes glow{0%,100%{opacity:.7}50%{opacity:1}}@keyframes flt{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}</style>
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2e13"/><stop offset=".6" stop-color="#14532d"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#86efac"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2f1a"/><stop offset="1" stop-color="#0c1a2b"/></linearGradient>
+</defs>
+<rect width="1000" height="410" rx="20" fill="url(#g1)"/>
+<rect x="14" y="14" width="472" height="382" rx="16" fill="#000" fill-opacity=".22"/>
+<rect x="514" y="14" width="472" height="382" rx="16" fill="#000" fill-opacity=".22"/>
+<g transform="translate(40 50)">
+<rect width="160" height="310" rx="24" fill="#0b1220" stroke="#86efac" stroke-width="3"/>
+<rect x="55" y="8" width="50" height="6" rx="3" fill="#334155"/>
+<rect x="12" y="26" width="136" height="34" rx="8" fill="#14532d"/>
+<text x="24" y="48" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">Mock Test</text>
+<g class="tm"><rect x="104" y="33" width="38" height="20" rx="10" fill="#fde68a"/><text x="123" y="47" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="800" text-anchor="middle" fill="#14532d">45:00</text></g>
+<text x="14" y="86" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#cbd5e1">Q 12. Which crop is a</text>
+<text x="14" y="101" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#cbd5e1">rabi oilseed?</text>
+<rect x="12" y="114" width="136" height="30" rx="8" fill="#1e293b"/><text x="22" y="134" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#e5e7eb">A. Groundnut</text>
+<g class="ans"><rect x="12" y="150" width="136" height="30" rx="8" fill="#166534" stroke="#86efac" stroke-width="2"/><text x="22" y="170" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#ffffff">B. Mustard  ✓</text></g>
+<rect x="12" y="186" width="136" height="30" rx="8" fill="#1e293b"/><text x="22" y="206" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#e5e7eb">C. Cotton</text>
+<rect x="12" y="222" width="136" height="30" rx="8" fill="#1e293b"/><text x="22" y="242" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#e5e7eb">D. Sugarcane</text>
+<rect x="30" y="268" width="100" height="28" rx="14" fill="url(#g2)"/><text x="80" y="287" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="800" text-anchor="middle" fill="#14532d">Submit</text>
+</g>
+<text x="235" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff">Exam Prep</text>
+<text x="235" y="110" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a7f3d0">Web + Android app</text>
+<rect x="235" y="128" width="110" height="28" rx="14" fill="#86efac" fill-opacity=".22" stroke="#86efac"/><text x="290.0" y="147" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">IBPS AFO</text><rect x="353" y="128" width="110" height="28" rx="14" fill="#fde68a" fill-opacity=".22" stroke="#fde68a"/><text x="408.0" y="147" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">ICAR JRF</text>
+<rect x="235" y="164" width="130" height="28" rx="14" fill="#7dd3fc" fill-opacity=".22" stroke="#7dd3fc"/><text x="300.0" y="183" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">UPSSSC AGTA</text><rect x="373" y="164" width="90" height="28" rx="14" fill="#f9a8d4" fill-opacity=".22" stroke="#f9a8d4"/><text x="418.0" y="183" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">State PSC</text>
+<g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e5e7eb"><text x="235" y="236">• Full-length mock tests</text><text x="235" y="262">• Instant scoring</text><text x="235" y="288">• Detailed solutions</text><text x="235" y="314">• Free tests, no signup to start</text><text x="235" y="340">• Test analysis + leaderboards</text></g>
+<rect x="235" y="352" width="215" height="30" rx="15" fill="#34A853"/><text x="342" y="372" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="800" text-anchor="middle" fill="#ffffff">Get it on Google Play</text>
+<g transform="translate(620 170)">
+<g class="bk"><path d="M0 20 C40 0 90 0 130 20 L130 170 C90 150 40 150 0 170 Z" fill="#0f2f1a" stroke="#fde68a" stroke-width="3"/>
+<path d="M260 20 C220 0 170 0 130 20 L130 170 C170 150 220 150 260 170 Z" fill="#14532d" stroke="#fde68a" stroke-width="3"/></g>
+<g stroke="#86efac" stroke-width="3" stroke-linecap="round" opacity=".8"><path d="M25 50 C50 40 80 40 105 50"/><path d="M25 75 C50 65 80 65 105 75"/><path d="M25 100 C50 90 80 90 105 100"/><path d="M155 50 C180 40 210 40 235 50"/><path d="M155 75 C180 65 210 65 235 75"/><path d="M155 100 C180 90 210 90 235 100"/></g>
+<path d="M130 -10 c-10 14 -10 28 0 36 c10 -8 10 -22 0 -36z" fill="#86efac" class="lf"/>
+</g>
+<text x="750" y="86" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle" fill="#ffffff">Agrigence Journal</text>
+<text x="750" y="110" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#a7f3d0">Agricultural research and innovation</text>
+<text x="750" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#e5e7eb">Free to read for students, researchers and scientists</text>
+<rect x="560" y="356" width="120" height="28" rx="14" fill="#86efac" fill-opacity=".22" stroke="#86efac"/><text x="620.0" y="375" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">Open access</text><rect x="690" y="356" width="120" height="28" rx="14" fill="#fde68a" fill-opacity=".22" stroke="#fde68a"/><text x="750.0" y="375" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">Peer-reviewed</text><rect x="820" y="356" width="120" height="28" rx="14" fill="#7dd3fc" fill-opacity=".22" stroke="#7dd3fc"/><text x="880.0" y="375" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffffff">International</text>
+</svg>

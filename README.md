@@ -9,7 +9,12 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anksarvesh-lgtm&label=Profile%20views&color=2E7D32&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://www.agrigence.in"><img src="https://img.shields.io/badge/Website-agrigence.in-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://play.google.com/store/apps/details?id=in.agrigence.cv"><img src="https://img.shields.io/badge/Google_Play-Agrigence_App-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Agrigence on Google Play" /></a>
   <a href="https://www.youtube.com/@The.Techool"><img src="https://img.shields.io/badge/YouTube-The.Techool-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/aslisarvesh/"><img src="https://img.shields.io/badge/Instagram-aslisarvesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -25,6 +30,28 @@
 - 🏅 **Organic standards:** NPOP, USDA and EU certification documentation
 - 💻 **Developer side:** web and Android apps, Mac apps in Swift, AI developer tools in Python
 - 📍 **Based in:** India
+
+---
+
+## 🌾 About Agrigence ([agrigence.in](https://www.agrigence.in))
+
+Agrigence is my own platform for Indian agriculture. It has two parts:
+
+**1. Agrigence Exam Prep** (web + Android app)
+- 📱 **Get the app:** [Agrigence on Google Play](https://play.google.com/store/apps/details?id=in.agrigence.cv)
+- 🎯 Built for agriculture competitive exams: **IBPS AFO, ICAR JRF, UPSSSC AGTA and State PSC**
+- 📝 Full-length mock tests with instant scoring
+- ✅ Detailed, step-by-step solutions after every test
+- 🆓 Free tests available, and you can start without signing up
+- 🌐 Bilingual questions (Hindi and English)
+- 📊 Test analysis and leaderboards to track progress
+- 🤖 AI-based MCQ generator from PDFs and documents (premium)
+- 🔔 Push notifications and an exam timer inside the app
+
+**2. Agrigence Journal**
+- 📖 Open-access, international journal of agricultural research and innovation
+- 🔍 Peer-reviewed publishing, so research is free for anyone to read
+- 🧑‍🔬 Built for students, researchers and scientists in agriculture and allied fields
 
 ---
 

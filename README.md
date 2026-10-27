@@ -18,12 +18,34 @@
 
 ## 🌾 About me
 
-- 🎓 **Agriculture professional:** M.Sc. Horticulture (DDU Gorakhpur University), B.Sc. Agriculture
-- 🔬 **Research:** sugarcane genetics at ICAR-ISRI
-- 🌱 **Consulting:** organic farm certification and documentation (NPOP, USDA, EU standards)
-- 📚 **Building [Agrigence](https://www.agrigence.in):** an open-access research journal and an exam prep platform for agriculture students in India
-- 💻 **Developer side:** Mac apps in Swift and AI developer tools in Python
+- 🎓 **Education:** M.Sc. Horticulture, DDU Gorakhpur University (2025, CGPA 8.5) • B.Sc. Agriculture
+- 📚 **Founder, [Agrigence](https://www.agrigence.in):** an open-access, peer-reviewed journal of agricultural research and innovation
+- 📱 **Building the Agrigence exam prep platform** for Indian agriculture exams (IBPS AFO, ICAR JRF, UPSSSC AGTA, State PSC), on web and Android
+- 🌱 **Consultant, Fivearth Farms Pvt. Ltd.** (Alwar, Rajasthan): project reports, certification documents and farm planning for an integrated organic farm
+- 🏅 **Organic standards:** NPOP, USDA and EU certification documentation
+- 💻 **Developer side:** web and Android apps, Mac apps in Swift, AI developer tools in Python
 - 📍 **Based in:** India
+
+---
+
+## 💼 Experience
+
+**Agricultural consulting and documentation, Fivearth Farms Pvt. Ltd.**
+- Detailed Project Reports (DPRs) for bank and subsidy submissions
+- SOPs and certification pathway mapping for NPOP, USDA and EU organic standards
+- Crop and variety planning for semi-arid conditions (polyhouse, shade net, open field, agroforestry)
+- Farm layout planning, vendor research, cold storage and solar sizing studies
+- Government scheme research: AIF, PMKSY, PMFME, NHM/MIDH
+- Farm management dashboards, KPI frameworks and meeting action trackers
+
+**Founder, Agrigence Journal**
+- Editorial setup, ISSN application and compliance, editorial board documents
+- Website, SEO and brand strategy
+
+**Founder and developer, Agrigence exam platform**
+- Test series, bilingual questions, test analysis and leaderboards
+- AI-based MCQ generator from PDFs and documents
+- Payments, push notifications and Play Store release
 
 ---
 
@@ -35,14 +57,17 @@
   <img src="https://img.shields.io/badge/NPOP-33691E?style=flat-square" alt="NPOP" />
   <img src="https://img.shields.io/badge/USDA_Organic-1B5E20?style=flat-square" alt="USDA Organic" />
   <img src="https://img.shields.io/badge/EU_Organic-2E7D32?style=flat-square" alt="EU Organic" />
-  <img src="https://img.shields.io/badge/Sugarcane_Genetics-827717?style=flat-square" alt="Sugarcane Genetics" />
-  <img src="https://img.shields.io/badge/Research_Publishing-0D47A1?style=flat-square" alt="Research Publishing" />
+  <img src="https://img.shields.io/badge/DPR_Writing-827717?style=flat-square" alt="DPR Writing" />
+  <img src="https://img.shields.io/badge/Crop_Planning-558B2F?style=flat-square" alt="Crop Planning" />
+  <img src="https://img.shields.io/badge/Protected_Cultivation-33691E?style=flat-square" alt="Protected Cultivation" />
+  <img src="https://img.shields.io/badge/Govt._Schemes-0D47A1?style=flat-square" alt="Government Schemes" />
+  <img src="https://img.shields.io/badge/Journal_Publishing-0D47A1?style=flat-square" alt="Journal Publishing" />
 </p>
 
 ## 🧰 Developer tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,python,ts,git,github&theme=dark" alt="Swift, Python, TypeScript, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,vercel,ts,python,swift,androidstudio,git,github&theme=dark" alt="React, Node.js, Express, Firebase, Vercel, TypeScript, Python, Swift, Android Studio, Git, GitHub" />
 </p>
 
 ---

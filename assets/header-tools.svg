@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 78" width="1000" height="78" role="img" aria-label="Developer tools">
+<style>.bar{animation:grow 1.4s ease-out both}.ic{animation:pop 2.8s ease-in-out infinite;transform-origin:50px 36px}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pop{0%,100%{transform:scale(1)}50%{transform:scale(1.12)}}</style>
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2e13"/><stop offset=".6" stop-color="#14532d"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#86efac"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2f1a"/><stop offset="1" stop-color="#0c1a2b"/></linearGradient>
+</defs>
+<rect width="1000" height="78" rx="14" fill="url(#g1)"/>
+<circle cx="50" cy="36" r="24" fill="#ffffff" fill-opacity=".08"/>
+<g class="ic"><g transform="translate(38 24)"><path d="M8 7l-5 5 5 5M16 7l5 5-5 5M14 4l-4 16" fill="none" stroke="#fde68a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<text x="90" y="40" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#ffffff">Developer tools</text>
+<text x="92" y="60" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a7f3d0">What I build with</text>
+<g class="bar" style="transform-origin:0 0"><rect x="0" y="72" width="1000" height="6" rx="3" fill="url(#g2)"/></g>
+</svg>

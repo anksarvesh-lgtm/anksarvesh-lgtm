@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="At a glance: 4 exams, 3 organic standards, 2 platforms, ">
+<style>.c{animation:up .9s ease-out both}@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1}}</style>
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2e13"/><stop offset=".6" stop-color="#14532d"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#86efac"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f2f1a"/><stop offset="1" stop-color="#0c1a2b"/></linearGradient>
+</defs><g class="c" style="animation-delay:0.0s" transform="translate(5 0)">
+<rect width="230" height="150" rx="16" fill="url(#card)" stroke="#1f7a3a" stroke-width="1.5"/>
+<text x="115" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="url(#g2)">4</text>
+<text x="115" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#ffffff">Exams covered</text>
+<text x="115" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">IBPS AFO · ICAR JRF</text><text x="115" y="129" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">UPSSSC AGTA · State PSC</text>
+</g><g class="c" style="animation-delay:0.25s" transform="translate(255 0)">
+<rect width="230" height="150" rx="16" fill="url(#card)" stroke="#1f7a3a" stroke-width="1.5"/>
+<text x="115" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="url(#g2)">3</text>
+<text x="115" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#ffffff">Organic standards</text>
+<text x="115" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">NPOP · USDA · EU</text>
+</g><g class="c" style="animation-delay:0.5s" transform="translate(505 0)">
+<rect width="230" height="150" rx="16" fill="url(#card)" stroke="#1f7a3a" stroke-width="1.5"/>
+<text x="115" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="url(#g2)">2</text>
+<text x="115" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#ffffff">Platforms built</text>
+<text x="115" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">Open-access journal</text><text x="115" y="129" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">+ exam prep app</text>
+</g><g class="c" style="animation-delay:0.75s" transform="translate(755 0)">
+<rect width="230" height="150" rx="16" fill="url(#card)" stroke="#1f7a3a" stroke-width="1.5"/>
+<text x="115" y="62" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" text-anchor="middle" fill="url(#g2)">2025</text>
+<text x="115" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#ffffff">M.Sc. completed</text>
+<text x="115" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">Horticulture,</text><text x="115" y="129" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle" fill="#a7f3d0">DDU Gorakhpur University</text>
+</g></svg>
